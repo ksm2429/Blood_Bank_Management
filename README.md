@@ -166,14 +166,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](https:/
 
 ---
 
-## 🌟 Impact So Far
-
-- **1,250+** Registered Donors  
-- **850+** Lives Saved  
-- **45+** Partner Hospitals  
-- **24/7** Emergency Support
-
----
 
 **BloodConnect** – *Connecting hearts, saving lives through blood donation.*
 
